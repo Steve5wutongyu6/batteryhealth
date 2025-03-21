@@ -1,5 +1,6 @@
-# Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 使用方法
+1. 输入电池的设计容量（mAh）。
+2. 输入当前满电容量（mAh）
+3. 填写电池的循环次数。
+4. 设置电池的首次使用日期和当前日期。
+5. 点击“计算”按钮，查看电池损耗分析和更换建议。
